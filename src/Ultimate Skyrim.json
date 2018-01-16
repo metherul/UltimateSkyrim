@@ -1,0 +1,82 @@
+{
+    "automaton_version": "0.0.5a",
+    "pack_name": "Ultimate Skyrim",
+    "pack_author": "metherul",
+    "pack_version": "1.0v",
+    "source_url": "https://reddit.com/r/ultimateskyrim",
+    "mods": [
+        {
+            "mod_name": "FISS - FileAccess Interface for Skyrim Scripts 1.21",
+            "file_name": "FileAccess Interface for Skyrim Scripts - FISS-48265-1-21.7z",
+            "file_size": "222457",
+            "mod_link": "https://www.nexusmods.com/skyrim/mods/48265",
+            "checksum": "C83D5B2DAFBD1FEAA5C0CFEE3E897F60",
+            "installations": [
+                {
+                    "source": "/",
+                    "target": "/"
+                }
+            ]
+        },
+        {
+            "mod_name": "Ultimate Skyrim Legendary Edition Patch 3.0.9",
+            "file_name": "Unofficial Skyrim Legendary Edition Patch-71214-3-0-11.7z",
+            "file_size": "179599488",
+            "mod_link": "https://www.nexusmods.com/skyrim/mods/71214",
+            "checksum": "97167B61863B5B9940B4E1E892E0722B",
+            "installations": [
+                {
+                    "source": "/",
+                    "target": "/"
+                }
+            ]
+        },
+        {
+            "mod_name": "Audio Overhaul for Skyrim 2.5.1",
+            "file_name": "AOS 2.5.1 Full Install-43773-2-5-1.rar",
+            "file_size": "235829257",
+            "mod_link": "https://www.nexusmods.com/skyrim/mods/43773",
+            "checksum": "9347A10A698689A28C8700EDE15A3430",
+            "installations": [
+                {
+                    "source": "/AOS_2_5_1_Full-Improved_Installer/004 AOS Plugin Skyrim and DG and DB/",
+                    "target": "/"
+                },
+                {
+                    "source": "/AOS_2_5_1_Full-Improved_Installer/010 Sounds Loose/",
+                    "target": "/"
+                }
+            ]
+        },
+        {
+            "mod_name": "Winter is Coming Cloaks 2.4",
+            "file_name": "WIC Cloaks NMM 2_4-13486-2-4.7z",
+            "file_size": "67356860",
+            "mod_link": "https://www.nexusmods.com/skyrim/mods/13486",
+            "checksum": "225329B52444312A3DB8F4F54E52D5A0",
+            "installations": [
+                {
+                    "source": "/00 - Meshes and Textures/",
+                    "target": "/"
+                },
+                {
+                    "source": "/01 - Main Plugin/",
+                    "target": "/"
+                }
+            ]
+        },
+        {
+            "mod_name": "Cloaks of Skyrim 1.2",
+            "file_name": "Cloaks of Skyrim 1-2 -12092-1-2.rar",
+            "file_size": "86482786",
+            "mod_link": "https://www.nexusmods.com/skyrim/mods/12092",
+            "checksum": "79A918EE4CDD7A97B640C4F4DD9400CA",
+            "installations": [
+                {
+                    "source": "/",
+                    "target": "/"
+                }
+            ]
+        },
+    ]
+}
